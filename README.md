@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/aenichols/aenichols/blob/mega/undefined%20-%20Imgur.gif)
+<img src="https://github.com/aenichols/aenichols/blob/mega/undefined%20-%20Imgur.gif" width="100%"/>
 
 <!--
 **aenichols/aenichols** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
