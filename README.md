@@ -13,7 +13,7 @@
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aenichols&hide_progress=true" alt="aenichols" />
 </p>
 
-<br>
+<br><br>
 
 <p>
   <div align="center">
